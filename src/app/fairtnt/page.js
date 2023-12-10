@@ -1,16 +1,15 @@
 "use client"
-import React from 'react';
-import Link from 'next/link';
-import App from '@/components/App';
+import Link from "next/link"
+import App from '@/components4/App';
 
 
-export default function Home() {
+export default function About() {
   return (
-    <main>
-      <nav  className='navbar'>
+    <>
+    <nav  className='navbar'>
           <ul>
           <li>
-            <Link href="/">QuoteGenerator </Link>
+            <Link href="/">QuoteGenerator</Link>
             </li>
             <li>
             <Link href="/shop">ShoppingList</Link>
@@ -23,9 +22,10 @@ export default function Home() {
             </li>
           </ul>
         </nav>
-      <div className="main">
-       <App/>
+
+        <div className="main">
+        <App/>
       </div>
-    </main>
-  );
+    </>
+  )
 }
