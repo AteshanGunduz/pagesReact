@@ -1,6 +1,6 @@
 import Houses from "./Houses"
 import Calender from "./Calender"
-import { data } from "@/context/Data"
+import { data } from ".//Data"
 import { useState, useEffect } from "react"
 
 
