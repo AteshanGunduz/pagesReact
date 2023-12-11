@@ -11,6 +11,6 @@ export const data = [
     {id:7, name: "Shared bathroo room", price: "$50", img:"https://images.unsplash.com/photo-1430285561322-7808604715df?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fGhvdXNlfGVufDB8MHwwfHx8MA%3D%3D", availability: `` },
     {id:8, name: "3+1 comfy near park", price: "$250", img:"https://images.unsplash.com/photo-1503174971373-b1f69850bded?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fGhvdXNlfGVufDB8MHwwfHx8MA%3D%3D", availability: `` },
     {id:9, name: "60m2 clean room no pets", price: "$90", img:"https://images.unsplash.com/photo-1591474200742-8e512e6f98f8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fGhvdXNlfGVufDB8MHwwfHx8MA%3D%3D", availability: `` },
-    {id:10, name: "Near to central museum studio", price: "$120", img:"https://images.unsplash.com/photo-1434082033009-b81d41d3211c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzl8fGhvdXNlfGVufDB8MHwwfHx8MA%3D%3D", availability: ``},
+    {id:10, name: "Near to central museum studio", price: "$120", img:"https://images.unsplash.com/photo-1605146769289-440113cc3d00?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aG91c2VzfGVufDB8MHwwfHx8MA%3D%3D", availability: ``},
 ]
 
