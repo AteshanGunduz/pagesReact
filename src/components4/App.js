@@ -70,7 +70,7 @@ const App = () => {
 
   return (
     <div>
-    <div className="container">
+    <div className="container2">
         <div className="houses">
         <Houses filteredHouses={house}/>
         </div>
