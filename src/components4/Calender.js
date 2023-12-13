@@ -27,7 +27,7 @@ const Calender = ({handleDate}) => {
             onChange={(e) => setCheckOut(e.target.value)} />
             </div>
         </div>
-        <button onClick={handleDates} className="search">✈️</button>
+        <button onClick={handleDates} className="search">Search</button>
     </div>
   )
 }
