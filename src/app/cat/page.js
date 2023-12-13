@@ -20,6 +20,12 @@ export default function About() {
             <li>
             <Link href="/fairtnt">FaitTntRenting</Link>
             </li>
+            <li>
+            <Link href="/user">UserSelecting</Link>
+            </li>
+            <li>
+            <Link href="/video">VideoSwitcher</Link>
+            </li>
           </ul>
         </nav>
 

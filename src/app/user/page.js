@@ -1,6 +1,6 @@
 "use client"
 import Link from "next/link"
-import App from '@/components4/App';
+import App from '@/components5/App';
 
 
 export default function About() {

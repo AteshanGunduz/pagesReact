@@ -21,6 +21,12 @@ export default function Home() {
             <li>
             <Link href="/fairtnt">FaitTntRenting</Link>
             </li>
+            <li>
+            <Link href="/user">UserSelecting</Link>
+            </li>
+            <li>
+            <Link href="/video">VideoSwitcher</Link>
+            </li>
           </ul>
         </nav>
       <div className="main">
